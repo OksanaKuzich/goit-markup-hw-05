@@ -122,6 +122,7 @@ p {
   height: 4px;
   background-color: var(--accent-text-color);
   border-radius: 2px;
+  bottom: -1px;
 }
 
 .contacts {
